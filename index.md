@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## Technical Stack
 
-You can use the [editor on GitHub](https://github.com/smadhusrini/smadhusrini/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Docker Installation on windows 10
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1. Install Windows Subsystem for Linux (WSL 2) - refer https://docs.microsoft.com/en-us/windows/wsl/install-win10
+2. Install docker ( https://download.docker.com/win/stable/Docker%20Desktop%20Installer.exe )
+3. Verify docker is installed,
+        a. Open a command prompt
+        b. Type "docker -version"  ( This will display the docker version number )
+4. Create a repository in Docker
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/smadhusrini/smadhusrini/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
